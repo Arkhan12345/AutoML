@@ -1,5 +1,6 @@
 Streamlit application that allows users to train models with an AutoML platform.
 Implements a pipeline that orchestrates preprocessing, data split, training and evaluation.
+3 models for classification/regressiong with 3 metrics each.
 
 Streamlit page:
 
