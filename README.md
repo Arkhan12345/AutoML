@@ -2,6 +2,7 @@ Streamlit application that allows users to train models with an AutoML platform.
 Implements a pipeline that orchestrates preprocessing, data split, training and evaluation.
 
 Streamlit page:
+
 `ST/page/datasets`: Page to manage the datasets. Upload CSV and convert it into a dataset. Save dataset artifact object.
 
 `ST/page/modelling`: Page to model a pipeline. 
